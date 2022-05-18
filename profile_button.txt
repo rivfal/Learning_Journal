@@ -1,0 +1,18 @@
+git init
+
+git add .
+
+git commit -m "pesan commit"
+
+git branch -M [nama-branch]
+
+git remote add [nama-remote] [url]
+
+git push [nama-remote] [nama-branch]
+
+------------------------------------------------
+git branch 
+-> cek nama branch
+
+git remote
+-> cek nama remote
